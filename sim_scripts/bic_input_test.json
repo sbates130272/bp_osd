@@ -1,0 +1,13 @@
+{
+  "hx_filename": "codes/bicycle/bic_pan_254_28_10_5_hx.alist",
+  "hz_filename": "codes/bicycle/bic_pan_254_28_10_5_hz.alist",
+  "code_label": "bic_254_28_10_5",
+  "logical_check_method": "hz",
+  "input_seed": 0,
+  "bp_method": "product_sum",
+  "bit_error_rate": 0.05,
+  "target_runs": 1000,
+  "osd_order": 40,
+  "max_iter": 50,
+  "osd_method": "combination_sweep"
+}
